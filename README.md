@@ -16,7 +16,7 @@ Objetivo:
 
 | Modulo | Status | Repositorio | Observacoes |
 | --- | --- | --- | --- |
-| Modulo 14 | Concluido | [data-science-mod15](https://github.com/DandanLeinad/data-science-mod15) | ... |
+| Modulo 15 | Concluido | [data-science-mod15](https://github.com/DandanLeinad/data-science-mod15) | ... |
 
 ## Como adicionar um novo modulo
 
