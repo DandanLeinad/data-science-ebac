@@ -16,7 +16,7 @@ Objetivo:
 
 | Modulo | Status | Repositorio | Observacoes |
 | --- | --- | --- | --- |
-| Modulo 15 | Concluido | [data-science-ebac-mod15](https://github.com/DandanLeinad/data-science-mod15) | ... |
+| Modulo 15 | Concluido | [data-science-ebac-mod15](https://github.com/DandanLeinad/data-science-ebac-mod15) | ... |
 | Modulo 16 | Concluido | [data-science-ebac-mod16](https://github.com/DandanLeinad/data-science-ebac-mod16) | ... |
 | Modulo 17 | Concluido | [data-science-ebac-mod17](https://github.com/DandanLeinad/data-science-ebac-mod17) | ... |
 
