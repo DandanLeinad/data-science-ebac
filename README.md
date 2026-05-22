@@ -26,6 +26,7 @@ Objetivo:
 | Módulo 22 | Concluido | [data-science-ebac-mod22](https://github.com/DandanLeinad/data-science-ebac-mod22) | ... |
 | Módulo 23 | Concluido | [data-science-ebac-mod23](https://github.com/DandanLeinad/data-science-ebac-mod23) | ... |
 | Módulo 24 | Concluido | [data-science-ebac-mod24](https://github.com/DandanLeinad/data-science-ebac-mod24) | ... |
+| Módulo 25 | Concluido | [data-science-ebac-mod25](https://github.com/DandanLeinad/data-science-ebac-mod25) | ... |
 
 ## Como adicionar um novo modulo
 
