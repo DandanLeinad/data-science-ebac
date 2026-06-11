@@ -9,8 +9,8 @@ Objetivo:
 
 ## Status Geral
 
-- Total de múdulos com repositorio registrado: 14
-- Ultima atualizacao: 2026-06-08
+- Total de múdulos com repositorio registrado: 16
+- Ultima atualizacao: 2026-06-11
 
 ## Tarefas por Modulo
 
@@ -32,6 +32,7 @@ Objetivo:
 | Módulo 28 | Concluido | [data-science-ebac-mod28](https://github.com/DandanLeinad/data-science-ebac-mod28) | ... |
 | Módulo 29 | Concluido | [data-science-ebac-mod29](https://github.com/DandanLeinad/data-science-ebac-mod29) | ... |
 | Módulo 30 | Concluido | [data-science-ebac-mod30](https://github.com/DandanLeinad/data-science-ebac-mod30) | ... |
+| Módulo 31 | Concluido | [data-science-ebac-mod31](https://github.com/DandanLeinad/data-science-ebac-mod31) | ... |
 
 ## Como adicionar um novo modulo
 
