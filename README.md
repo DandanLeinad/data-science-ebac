@@ -37,6 +37,7 @@ Objetivo:
 | Módulo 33 | Concluido | [data-science-ebac-mod33](https://github.com/DandanLeinad/data-science-ebac-mod33) | ... |
 | Módulo 34 | Concluido | [data-science-ebac-mod34](https://github.com/DandanLeinad/data-science-ebac-mod34) | ... |
 | Módulo 35 | Concluido | [data-science-ebac-mod35](https://github.com/DandanLeinad/data-science-ebac-mod35) | ... |
+| Módulo 36 | Concluido | [data-science-ebac-mod36](https://github.com/DandanLeinad/data-science-ebac-mod36) | ... |
 
 ## Como adicionar um novo modulo
 
