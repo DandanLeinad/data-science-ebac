@@ -9,7 +9,7 @@ Objetivo:
 
 ## Status Geral
 
-- Total de múdulos com repositorio registrado: 27
+- Total de múdulos com repositorio registrado: 28
 - Ultima atualizacao: 2026-07-09
 
 ## Tarefas por Modulo
@@ -43,6 +43,7 @@ Objetivo:
 | Módulo 39 | Concluido | [data-science-ebac-mod39](https://github.com/DandanLeinad/data-science-ebac-mod39) | ... |
 | Módulo 40 | Concluido | [data-science-ebac-mod40](https://github.com/DandanLeinad/data-science-ebac-mod40) | ... |
 | Módulo 41 | Concluido | [data-science-ebac-mod41](https://github.com/DandanLeinad/data-science-ebac-mod41) | ... |
+| Parceria EBAC × Semantix | Concluido | [data-science-ebac-mod41-semantix]([https://github.com/DandanLeinad/data-science-ebac-mod40](https://github.com/DandanLeinad/data-science-ebac-mod41-semantx-partnership-project)) | ... |
 | Módulo 42 | Concluido | [data-science-ebac-mod42](https://github.com/DandanLeinad/data-science-ebac-mod42) | ... |
 
 ## Como adicionar um novo modulo
